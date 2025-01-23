@@ -198,7 +198,7 @@
 
 @media (max-width: 768px) {
   .logo-brand img {
-    width: 80px;
+    width: 64px;
   }
   /* Mobile Navbar */
   .navbar-collapse .navbar-nav {
@@ -326,7 +326,7 @@
     gap: 16px;
   }
   .pt-140 {
-    padding-top: 40px;
+    padding-top: 30px;
   }
   .container {
     padding-left: 20px;
@@ -365,6 +365,8 @@
   .testimonial-slider .slick-arrow {
     display: none !important;
   }
+  .testimonial .slick-slider{margin-bottom: 0 !important;}
+  .bottom-footer{padding-top: 20px;}
 }
 
 @media (max-width: 576px) {
@@ -440,6 +442,9 @@
   .cons-effe-section .right .r-inner-content-2 {
     margin-bottom: 0;
   }
+  .pt-64 {
+    padding: 20px 0 0;
+}
 }
 
 @media (max-width: 420px) {
@@ -505,9 +510,7 @@
   .experience-section p {
     font-size: 13px;
   }
-  .pt-64 {
-    padding: 30px 0 0;
-  }
+
 }
 
 @media (max-width: 375px) {
