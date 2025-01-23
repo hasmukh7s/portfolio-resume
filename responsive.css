@@ -341,7 +341,30 @@
   .mb-20 {
     margin-bottom: 10px;
   }
-  .footer-wrapper{padding: 20px;}
+  .footer-wrapper {
+    padding: 20px;
+  }
+  .experience-content li:last-child {
+    margin-bottom: 0;
+  }
+  .testimonial .testimonial-slide.slick-center {
+    scale: 1;
+  }
+  .testimonial h2 {
+    margin-bottom: 0;
+  }
+  .testimonial .testimonial-slide {
+    padding: 20px;
+    height: 100%;
+  }
+  .testimonial-slider .slick-track {
+    gap: 28px;
+    padding: 0;
+    height: 100%;
+  }
+  .testimonial-slider .slick-arrow {
+    display: none !important;
+  }
 }
 
 @media (max-width: 576px) {
@@ -369,15 +392,7 @@
   .project-section .container {
     padding: 0;
   }
-  .testimonial .testimonial-slide {
-    padding: 24px;
-  }
-  .testimonial-slider .slick-track {
-    gap: 40px;
-  }
-  .testimonial-slider .slick-arrow {
-    display: none !important;
-  }
+
   .experience-content-inner {
     padding: 20px;
   }
@@ -405,12 +420,6 @@
     font-size: 20px;
   }
 
-  .testimonial-slider .slick-track {
-    gap: 28px;
-  }
-  .testimonial-slider .slick-track {
-    padding: 16px 0;
-  }
   .experience-content-inner a {
     flex-direction: column;
     text-align: center;
@@ -427,6 +436,9 @@
   }
   .skills-slide img {
     padding-top: 10px;
+  }
+  .cons-effe-section .right .r-inner-content-2 {
+    margin-bottom: 0;
   }
 }
 
