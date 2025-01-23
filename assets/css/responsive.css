@@ -271,10 +271,10 @@
     margin-bottom: 10px;
   }
   .pb-140 {
-    padding-bottom: 30px;
+    padding-bottom: 20px;
   }
   .py-140 {
-    padding: 30px 0;
+    padding: 20px 0;
   }
   .top-footer .width32 {
     padding-bottom: 20px;
@@ -292,7 +292,7 @@
     width: 80px;
   }
   .pb-64 {
-    padding-bottom: 30px;
+    padding-bottom: 20px;
   }
   .testimonial-slider .slick-track {
     padding: 12px 0;
@@ -326,8 +326,22 @@
     gap: 16px;
   }
   .pt-140 {
-    padding-top: 30px;
+    padding-top: 40px;
   }
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .project-section .project-box {
+    padding: 20px;
+  }
+  .project-content-inner {
+    gap: 10px;
+  }
+  .mb-20 {
+    margin-bottom: 10px;
+  }
+  .footer-wrapper{padding: 20px;}
 }
 
 @media (max-width: 576px) {
@@ -406,13 +420,14 @@
   }
   .cons-effe-section .right .r-inner-content {
     margin-bottom: 10px;
-}
-.testimonial .testimonial-info svg,.testimonial .testimonial-slide .testimonial-detail-info {
-  margin-bottom: 10px;
-}
-.skills-slide img {
-  padding-top: 10px;
-}
+  }
+  .testimonial .testimonial-info svg,
+  .testimonial .testimonial-slide .testimonial-detail-info {
+    margin-bottom: 10px;
+  }
+  .skills-slide img {
+    padding-top: 10px;
+  }
 }
 
 @media (max-width: 420px) {
