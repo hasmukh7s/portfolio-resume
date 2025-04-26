@@ -1,0 +1,18 @@
+<svg id="icon-btn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_161" data-name="Rectangle 161" width="40" height="40" transform="translate(-10206 3736)" fill="#d4d9d5"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_163" data-name="Rectangle 163" fill="none" stroke="#d4d9d5" stroke-width="1">
+    <rect width="64" height="64" rx="32" stroke="none"/>
+    <rect x="0.5" y="0.5" width="63" height="63" rx="31.5" fill="none"/>
+  </g>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(10218 -3724)" clip-path="url(#clip-path)">
+    <g id="Icons" transform="translate(-10200.286 3741.714)">
+      <g id="Color-">
+        <path id="LinkedIn" d="M732.411,292.646H725.69v-9.719c0-2.543-1.051-4.28-3.363-4.28a3.392,3.392,0,0,0-3.209,2.3,4.265,4.265,0,0,0-.145,1.535v10.163h-6.659s.086-17.216,0-18.781h6.659v2.948c.393-1.289,2.521-3.128,5.916-3.128,4.213,0,7.523,2.7,7.523,8.518v10.443Zm-26.832-21.13h-.043A3.277,3.277,0,0,1,702,268.261a3.615,3.615,0,1,1,3.579,3.255Zm-2.812,2.349h5.928v18.781h-5.928V273.865Z" transform="translate(-702 -265)" fill="#d4d9d5" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

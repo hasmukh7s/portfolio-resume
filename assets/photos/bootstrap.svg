@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="82" viewBox="0 0 100 82">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_206" data-name="Rectangle 206" width="100" height="82" transform="translate(-12231 6557)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="bootstrap" transform="translate(12231 -6557)" clip-path="url(#clip-path)">
+    <path id="bootstrap-2" data-name="bootstrap" d="M1208.24,45.419a15.19,15.19,0,0,0-8.62-5.667s3.14-1.133,5.97-5.361a17.98,17.98,0,0,0,2.56-9.741c0-6.586-2.4-11.64-7.21-15.1s-10.21-5.79-19.42-5.79h-28.78V77.276h32.11c8.71-.061,15.26-1.93,19.73-5.514,4.43-3.645,6.64-9.036,6.64-16.235A16.742,16.742,0,0,0,1208.24,45.419Zm-37.03-29.406h13.08a8.424,8.424,0,1,1,0,16.847h-13.08Zm15.39,49.011h-15.39V46.644h15.39a9.19,9.19,0,1,1,0,18.379Z" transform="translate(-13362.74 6557.241)" fill="#d9d9d9"/>
+  </g>
+</svg>
